@@ -1,6 +1,6 @@
-[![GitBook](https://img.shields.io/badge/documentation-online-blue.svg?style=flat-square)](https://akaysoftware.gitbooks.io/codeigniter-aauth/content/)
-[![Travis-CI](https://img.shields.io/travis/AkaySoftware/CodeIgniter-Aauth/v3-dev.svg?style=flat-square)](https://travis-	ci.org/AkaySoftware/CodeIgniter-Aauth)
-[![Codecov](https://img.shields.io/codecov/c/github/AkaySoftware/CodeIgniter-Aauth/v3-dev.svg?style=flat-square)](https://codecov.io/gh/AkaySoftware/CodeIgniter-Aauth)
+[![GitBook](https://img.shields.io/badge/documentation-online-blue.svg?style=flat-square)](https://magefly.gitbooks.io/codeigniter-aauth/content/)
+[![Travis-CI](https://img.shields.io/travis/magefly/CodeIgniter-Aauth/v3-dev.svg?style=flat-square)](https://travis-ci.org/magefly/CodeIgniter-Aauth)
+[![Codecov](https://img.shields.io/codecov/c/github/magefly/CodeIgniter-Aauth/v3-dev.svg?style=flat-square)](https://codecov.io/gh/magefly/CodeIgniter-Aauth)
 
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/2417212/8925689/add409ea-34be-11e5-8e50-845da8f5b1b0.png" height="320">
@@ -172,7 +172,7 @@ Frodo has broke the rules and will now need to be banned from the system.
 $this->aauth->ban_user(3);
 ``` 
 
-You have reached the end of the Quick Start Guide, but please take a look at the [detailed Documentation Wiki](https://github.com/emreakay/CodeIgniter-Aauth/wiki/_pages) for additional information.
+You have reached the end of the Quick Start Guide, but please take a look at the [detailed Documentation Wiki](https://github.com/magefly/CodeIgniter-Aauth/wiki/_pages) for additional information.
 
 
 Don't forget to keep and eye on Aauth, we are constantly improving the system.
